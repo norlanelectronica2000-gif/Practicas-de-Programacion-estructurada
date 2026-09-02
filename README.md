@@ -1,3 +1,3 @@
-# Practicas Directorio
-# Nombre: NOrlan Ismael Yocky Argueta
-# Materia: Programacion estructurada.
+Practicas Directorio
+Nombre: Norlan Ismael Yocky Argueta
+Materia: Programacion estructurada.
